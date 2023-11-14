@@ -47,6 +47,9 @@ $ yarn run test:cov
 ## Libraries
 
 ```bash
+# Config
+$ yarn add @nestjs/config
+
 # prisma
 $ yarn add -D prisma
 $ yarn add  @prisma/client
