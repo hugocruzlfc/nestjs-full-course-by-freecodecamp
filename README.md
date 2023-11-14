@@ -54,4 +54,10 @@ $ npx prisma init
 $ npx prisma migrate dev --name init
 $ npx prisma generate
 
+# Validators
+$ yarn add  class-validator class-transformer
+
+#hash
+yarn add argon2
+
 ```
