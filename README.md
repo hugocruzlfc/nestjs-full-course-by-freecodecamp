@@ -43,3 +43,15 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
+
+## Libraries
+
+```bash
+# prisma
+$ yarn add -D prisma
+$ yarn add  @prisma/client
+$ npx prisma init
+$ npx prisma migrate dev --name init
+$ npx prisma generate
+
+```
