@@ -60,7 +60,13 @@ $ npx prisma generate
 # Validators
 $ yarn add  class-validator class-transformer
 
-#hash
-yarn add argon2
+# Hash
+$ yarn add argon2
+
+# Authentication
+
+$ yarn add @nestjs/passport passport
+$ yarn add @nestjs/jwt passport-jwt
+$ yarn add -D @types/passport-jwt
 
 ```
