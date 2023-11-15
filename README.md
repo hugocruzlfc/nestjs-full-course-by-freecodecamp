@@ -72,5 +72,6 @@ $ yarn add -D @types/passport-jwt
 # Test e2e
 
 $ yarn add -D pactum
+$ yarn add -D dotenv-cli
 
 ```
